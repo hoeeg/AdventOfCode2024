@@ -32,7 +32,7 @@ def read_file(file):
 
 
 def main():
-    left, right = read_file('DAY1/locationID.csv')
+    left, right = read_file('./locationID.csv')
 
     distance = calculate_distance(left, right)
     print("The total distance is", distance)
