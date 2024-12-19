@@ -13,6 +13,7 @@ Welcome to my solutions for [Advent of Code 2024](https://adventofcode.com/)!
 |[DAY 7](DAY7/)   | Python        | ⭐️⭐️ |
 |[DAY 8](DAY8/)   | Python        | ⭐️⭐️ |
 |[DAY 9](DAY9/)   | Python        | ⭐️⭐️ |
+|[DAY 10](DAY10/)   | Python        | ⭐️⭐️ |
 
 
-Current Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+Current Progress: 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
